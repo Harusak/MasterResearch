@@ -1,3 +1,11 @@
+!**/docs/
+**/R/
+**/_*/
+_*.*
+/**
+
+.DS_Store
+
 # Output files from R CMD build
 /*.tar.gz
 
@@ -35,4 +43,3 @@ code/**/*_files/
 # data
 data/
 
-!docs/
