@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "posts/EXP_03/index.html",
+    "href": "posts/EXP_03/index.html",
+    "title": "EXP 03 | BiCFS_Art",
+    "section": "",
+    "text": "本研究では，．．．"
+  },
+  {
+    "objectID": "posts/EXP_03/index.html#いろはのい",
+    "href": "posts/EXP_03/index.html#いろはのい",
+    "title": "EXP 03 | BiCFS_Art",
+    "section": "",
+    "text": "これはテストです．"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Master Research",
+    "section": "",
+    "text": "EXP 03 | BiCFS_Art\n\n\n\n\n\n\nexp\n\n\n\n\n\n\n\n\n\nMay 13, 2024\n\n\nHal Sakaguchi\n\n\n\n\n\n\n\n\n\n\n\n\nEXP 02 | CFS_Art\n\n\n\n\n\n\nexp\n\n\n\n\n\n\n\n\n\nMay 13, 2024\n\n\nHal Sakaguchi\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/EXP_03/index.html#introduction",
+    "href": "posts/EXP_03/index.html#introduction",
+    "title": "EXP 03 | BiCFS_Art",
+    "section": "",
+    "text": "本研究では，．．．"
+  },
+  {
+    "objectID": "posts/EXP_03/index.html#experiment",
+    "href": "posts/EXP_03/index.html#experiment",
+    "title": "EXP 03 | BiCFS_Art",
+    "section": "Experiment",
+    "text": "Experiment\n\nSubjects\n\n\nMethods"
+  },
+  {
+    "objectID": "posts/EXP_03/index.html#analysis",
+    "href": "posts/EXP_03/index.html#analysis",
+    "title": "EXP 03 | BiCFS_Art",
+    "section": "Analysis",
+    "text": "Analysis\n\nANOVA\n\n2要因参加者内\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource\nSum Sq\nDF\nMean Sq\nF Stats\nP Val\nSig\np-eta^2\n\n\n\n\ns\n243.664\n10\n24.366\n\n\n\n\n\n\n\n\n\ncondOrientation\n0.439\n1\n0.439\n2.013\n0.186\nns\n0.168\n\n\ns x condOrientation\n2.179\n10\n0.218\n\n\n\n\n\n\n\n\n\npaintingGenre\n0.191\n1\n0.191\n0.702\n0.422\nns\n0.066\n\n\ns x paintingGenre\n2.714\n10\n0.271\n\n\n\n\n\n\n\n\n\ncondOrientation x paintingGenre\n0.078\n1\n0.078\n0.407\n0.538\nns\n0.039\n\n\ns x condOrientation x paintingGenre\n1.913\n10\n0.191\n\n\n\n\n\n\n\n\n\nTotal\n251.185\n1049\n0.239"
+  },
+  {
+    "objectID": "posts/EXP_03/index.html#results",
+    "href": "posts/EXP_03/index.html#results",
+    "title": "EXP 03 | BiCFS_Art",
+    "section": "Results",
+    "text": "Results\n\n絵画向きと絵画ジャンルごとの識別課題正答率\n\n\n\n12 人が参加\n\n1 人がリジェクト\n\n抑制されなかったため\n\n\nデータポイントは参加者\n\n\n\nBar plotBox plot\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n絵画ごとの解析\n\n\n\n\n\nOverview of Paintings\nCorrect Response Rates with Images"
+  },
+  {
+    "objectID": "posts/EXP_02/index.html",
+    "href": "posts/EXP_02/index.html",
+    "title": "EXP 02 | CFS_Art",
+    "section": "",
+    "text": "本研究では，．．．"
+  },
+  {
+    "objectID": "posts/EXP_02/index.html#introduction",
+    "href": "posts/EXP_02/index.html#introduction",
+    "title": "EXP 02 | CFS_Art",
+    "section": "",
+    "text": "本研究では，．．．"
+  },
+  {
+    "objectID": "posts/EXP_02/index.html#experiment",
+    "href": "posts/EXP_02/index.html#experiment",
+    "title": "EXP 02 | CFS_Art",
+    "section": "Experiment",
+    "text": "Experiment\n\nSubjects\n\n\nMethods"
+  },
+  {
+    "objectID": "posts/EXP_02/index.html#results",
+    "href": "posts/EXP_02/index.html#results",
+    "title": "EXP 02 | CFS_Art",
+    "section": "Results",
+    "text": "Results\n\nBT\n\n\n\n呈示方位ごとのBT"
+  },
+  {
+    "objectID": "posts/EXP_02/index.html#analysis",
+    "href": "posts/EXP_02/index.html#analysis",
+    "title": "EXP 02 | CFS_Art",
+    "section": "Analysis",
+    "text": "Analysis\n\nt 検定\n\n\nEffect sizes were labelled following Cohen's (1988) recommendations.\n\nThe Welch Two Sample t-test testing the difference between invert and upright\n(mean of x = 4.93, mean of y = 4.86) suggests that the effect is positive,\nstatistically not significant, and very small (difference = 0.08, 95% CI\n[-0.80, 0.95], t(45.99) = 0.17, p = 0.863; Cohen's d = 0.05, 95% CI [-0.52,\n0.62])"
+  }
+]
