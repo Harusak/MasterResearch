@@ -34,3 +34,5 @@ code/**/*_files/
 
 # data
 data/
+
+!docs/
