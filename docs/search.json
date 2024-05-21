@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Master Research",
     "section": "",
-    "text": "EXP 03 | BiCFS_Art\n\n\n\n\n\n\noverall\n\n\n\n\n\n\n\n\n\nMay 14, 2024\n\n\nHal Sakaguchi\n\n\n\n\n\n\n\n\n\n\n\n\nEXP 02 | CFS_Art\n\n\n\n\n\n\noverall\n\n\n\n\n\n\n\n\n\nMay 14, 2024\n\n\nHal Sakaguchi\n\n\n\n\n\n\nNo matching items"
+    "text": "EXP 03 | BiCFS_Art\n\n\n\n\n\n\noverall\n\n\n\n\n\n\n\n\n\nMay 21, 2024\n\n\nHal Sakaguchi\n\n\n\n\n\n\n\n\n\n\n\n\nEXP 02 | CFS_Art\n\n\n\n\n\n\noverall\n\n\n\n\n\n\n\n\n\nMay 21, 2024\n\n\nHal Sakaguchi\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/EXP_03/index.html#introduction",
@@ -39,14 +39,14 @@
     "href": "posts/EXP_03/index.html#analysis",
     "title": "EXP 03 | BiCFS_Art",
     "section": "Analysis",
-    "text": "Analysis\n\nANOVA\n\n2要因参加者内\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource\nSum Sq\nDF\nMean Sq\nF Stats\nP Val\nSig\np-eta^2\n\n\n\n\ns\n243.664\n10\n24.366\n\n\n\n\n\n\n\n\n\ncondOrientation\n0.439\n1\n0.439\n2.013\n0.186\nns\n0.168\n\n\ns x condOrientation\n2.179\n10\n0.218\n\n\n\n\n\n\n\n\n\npaintingGenre\n0.191\n1\n0.191\n0.702\n0.422\nns\n0.066\n\n\ns x paintingGenre\n2.714\n10\n0.271\n\n\n\n\n\n\n\n\n\ncondOrientation x paintingGenre\n0.078\n1\n0.078\n0.407\n0.538\nns\n0.039\n\n\ns x condOrientation x paintingGenre\n1.913\n10\n0.191\n\n\n\n\n\n\n\n\n\nTotal\n251.185\n1049\n0.239"
+    "text": "Analysis\n\nANOVA\n\n2要因参加者内\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource\nSum Sq\nDF\nMean Sq\nF Stats\nP Val\nSig\np-eta^2\n\n\n\n\ns\n301.952\n12\n25.163\n\n\n\n\n\n\n\n\n\ncondOrientation\n0.014\n1\n0.014\n0.057\n0.815\nns\n0.005\n\n\ns x condOrientation\n2.873\n12\n0.239\n\n\n\n\n\n\n\n\n\npaintingGenre\n0.192\n1\n0.192\n0.855\n0.373\nns\n0.067\n\n\ns x paintingGenre\n2.688\n12\n0.224\n\n\n\n\n\n\n\n\n\ncondOrientation x paintingGenre\n0.001\n1\n0.001\n0.004\n0.950\nns\n0.000\n\n\ns x condOrientation x paintingGenre\n2.982\n12\n0.248\n\n\n\n\n\n\n\n\n\nTotal\n310.700\n1283\n0.242"
   },
   {
     "objectID": "posts/EXP_03/index.html#results",
     "href": "posts/EXP_03/index.html#results",
     "title": "EXP 03 | BiCFS_Art",
     "section": "Results",
-    "text": "Results\n\n絵画向きと絵画ジャンルごとの識別課題正答率\n\n\n\n12 人が参加\n\n1 人がリジェクト\n\n抑制されなかったため\n\n\nデータポイントは参加者\n\n\n\nBar plotBox plot\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n絵画ごとの解析\n\n\n\n\n\nOverview of Paintings\nCorrect Response Rates with Images"
+    "text": "Results\n\n絵画向きと絵画ジャンルごとの識別課題正答率\n\n\n\n17 人が参加\n\n4 人がリジェクト\n\nデータポイントは参加者\n\n\n\n\n\n\n\n\n\n\n\n\nBefore Outlier Proc.After Outlier Proc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n絵画ごとの解析\n\n\n\n\n\nOverview of Paintings\nCorrect Response Rates with Images"
   },
   {
     "objectID": "posts/EXP_02/index.html",
